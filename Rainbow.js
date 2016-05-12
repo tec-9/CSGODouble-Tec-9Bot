@@ -1,3 +1,7 @@
+// CSGODouble-Tec-9Bot
+// Сайт бота: www.tec-9.ru
+// Автор: Сергей Илларионов -  https://vk.com/s_ill
+
 var initialBetAmount = 1;
 // Начальная ставка
 var safety = 1;
@@ -9,7 +13,6 @@ var safety = 1;
 
 var mode = 'martingale'; 
 // установит 'martingale' или 'anti-martingale' ( https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%D0%B9%D0%BB )
-//////////////////////////
 
 var betColor = 'spiral'; //
 function tick() {
