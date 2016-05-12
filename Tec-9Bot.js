@@ -98,12 +98,12 @@ function Automated() {
     menu.innerHTML = '' +
         '<div class="row">' +
             '<div class="col-lg-9">' +
-                '<h2>CSGODouble.com Automated <small></small> <i id="automated-theme-switch" class="fa fa-lightbulb-o" style="cursor: pointer;"></i></h2>' +
+                '<h2>CSGODouble-Tec-9Bot<small></small> <i id="automated-theme-switch" class="fa fa-adjust" style="cursor: pointer;"></i></h2>' +
                 '<div class="form-group">' +
                     '<div class="btn-group">' +
-                        '<button type="button" class="btn btn-success" id="automated-start" disabled>Start</button>' +
-                        '<button type="button" class="btn btn-warning" id="automated-stop" disabled>Pause</button>' +
-                        '<button type="button" class="btn btn-danger" id="automated-abort" disabled>Abort</button>' +
+                        '<button type="button" class="btn btn-success" id="automated-start" disabled>Старт</button>' +
+                        '<button type="button" class="btn btn-warning" id="automated-stop" disabled>Пауза</button>' +
+                        '<button type="button" class="btn btn-danger" id="automated-abort" disabled>Сбросить</button>' +
                     '</div>' +
                 '</div>' +
                 '<div class="form-group">' +
